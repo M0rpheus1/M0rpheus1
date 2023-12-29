@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style>
+    text { fill: #33FF33; font-family: monospace; font-size: 18px; }
+  </style>
+  <text x="10" y="20">0101010101010101010101010101010101010101010101010101010101010101</text>
+  <text x="10" y="40">0101010101010101010101010101010101010101010101010101010101010101</text>
+  <!-- Add more lines as needed -->
+</svg>
