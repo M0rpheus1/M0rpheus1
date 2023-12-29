@@ -1,7 +1,3 @@
-<!-- Add a Matrix-style animation to your GitHub profile -->
-<p align="center">
-  <img src="https://gist.github.com/M0rpheus1/04b06b9b35a26f75c03dd726bd001efd" width="800" height="400">
-</p>
 
 <!-- Your other content goes here -->
 # Welcome to the Matrix! 🕶️
