@@ -1,6 +1,6 @@
 <!-- Add a Matrix-style animation to your GitHub profile -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/matrix.svg" width="800" height="400">
+  <img src="https://gist.githubusercontent.com/yourusername/yourgistid/raw/matrix.svg" width="800" height="400">
 </p>
 
 <!-- Your other content goes here -->
