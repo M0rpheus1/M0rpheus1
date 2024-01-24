@@ -40,7 +40,7 @@ Greetings, fellow coders! I am Morpheus, a digital architect, seeker of truth, a
 
 <!--- 📧 Email: -->
 - 💬 Discord: [m0rph5us]
-- 🐦 Twitter: [@M2sterPo]
+- 🐦 Twitter: [@M0rph5us]
 <!-- - 🔗 LinkedIn: 
 - 🌐 Portfolio: [morpheus.codes](https://morpheus.codes) -->
 
